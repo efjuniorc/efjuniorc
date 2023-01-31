@@ -41,6 +41,11 @@ development.
 
 [//]: # (<a target="_blank" rel="noopener noreferrer nofollow" href="srcqui"><img src="srcqui" alt="jquery" data-canonical-src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" style="max-width: 100%;"></a>)
 
+[//]: # (https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
+</p>
 
+<h3>contact</h3>
+<p>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/ejunior7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jquery" data-canonical-src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
